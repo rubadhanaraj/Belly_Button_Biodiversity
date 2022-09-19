@@ -39,4 +39,6 @@ The JavaScript code has been written to create the charts and demographic panel 
 
 ![image](https://user-images.githubusercontent.com/108298416/190952228-553c4550-94cb-44d5-86e3-0128f23dd720.png)
 
+5. The intercative Belly Button Biodiversity webpage is deployed to github pages and the site is published. The site can be visited using following link.
+https://rubadhanaraj.github.io/Belly_Button_Biodiversity/
 
